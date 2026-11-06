@@ -1,0 +1,6 @@
+{
+  "name": "Ֆուտբոլային Միլիոնատեր | Fútbol Millonario (ES - HY)",
+  "description": "Իսպաներեն-հայերեն ֆուտբոլային ինտերակտիվ խաղ «Ո՞վ է ուզում դառնալ միլիոնատեր»։ Սովորեք մարզչի 20 կարևորագույն հրահանգները և ֆուտբոլային արտահայտությունները։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
